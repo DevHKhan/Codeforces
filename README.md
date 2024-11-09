@@ -1,7 +1,7 @@
 
 # About DevHKhan/Codeforces
 
-I enjoy computer programing in C++. Although I am not currently the best at it, I am getting a little better at it every day!
+I enjoy computer programing in C++. Although I am not the best at it, I am getting a little better at it every day!
 
 Recently, I found out about a website called [Codeforces](https://codeforces.com), a website that hosts many free online competitions. It also has a very large [database of practice problems](https://codeforces.com/problemset) available for anyone to solve.
 
